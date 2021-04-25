@@ -7,7 +7,9 @@
 - 👯 I’m looking to collaborate with fellow ML enthusiasts
 - ⚡ **Just a Gag : You can learn things you know you don't know, but what about things you don't know you don't know?** 🤔
 
-## 📫 Connect with me <img src="wave.gif" width="30px">:
+<br />
+
+## 📫 Connect with me on <img src="wave.gif" width="30px">:
 
 [<img align="left" alt="Pranav Tumkur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pranav-tumkur-130196/)
 [<img align="left" alt="Pranav Tumkur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pranavtumkur/)
