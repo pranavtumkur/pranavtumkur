@@ -13,7 +13,7 @@
 [<img align="left" alt="Pranav Tumkur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pranavtumkur/)
 [<img align="left" alt="Pranav Tumkur | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/tableau.svg" />](https://public.tableau.com/profile/pranavtumkur)
 
-<br />
+<br /><br />
 
 ## 🔧 Languages and Tools:
 
