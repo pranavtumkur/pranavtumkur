@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/SaaS-AWS-informational?style=flat&logo=dependabot&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=vba&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-VBA-informational?style=flat&logo=travis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 
