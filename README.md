@@ -16,7 +16,7 @@
 ## 🔧 Languages and Tools:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SaaS-AWS-informational?style=flat&logo=gnu-amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SaaS-AWS-informational?style=flat&logo=amazonaws.svg&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
