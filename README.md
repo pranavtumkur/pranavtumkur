@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on integrating Machine Learning
 - 🌱 I’m currently learning Python, JS, HTML, SQL, AWS... and much more
 - 👯 I’m looking to collaborate with fellow ML enthusiasts
-##### - ⚡ Just a Gag : You can learn things you know you don't know, but what about things you don't know you don't know? 🤔
+- **⚡ Just a Gag : You can learn things you know you don't know, but what about things you don't know you don't know? 🤔
 
 ## 📫 Connect with me <img src="wave.gif" width="30px">:
 
@@ -18,8 +18,8 @@
 ## 🔧 Languages and Tools:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SaaS-AWS-informational?style=flat&logo=data:amazonaws/svg;base64,&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SaaS-AWS-informational?style=flat&logo=dependabot&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
