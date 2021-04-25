@@ -11,12 +11,14 @@
 
 [<img align="left" alt="Pranav Tumkur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/pranav-tumkur-130196/)
 [<img align="left" alt="Pranav Tumkur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/pranavtumkur/)
-[<img align="left" alt="Pranav Tumkur | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/tableau.svg" />](https://public.tableau.com/profile/pranavtumkur) </br>
+[<img align="left" alt="Pranav Tumkur | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/tableau.svg" />](https://public.tableau.com/profile/pranavtumkur)
+
+<br />
 
 ## 🔧 Languages and Tools:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SaaS-AWS-informational?style=flat&logo=dependabot&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SaaS-AWS-informational?style=flat&logo=232F3E&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
